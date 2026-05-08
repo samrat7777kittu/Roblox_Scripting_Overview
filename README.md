@@ -1,177 +1,81 @@
-# 🚀 Roblox Scripting Overview
+# Roblox_Scripting_Overview
 
-I am a Roblox **Scripter, System Designer, and Framework Developer** focused on creating scalable, optimized, and maintainable game systems.
-I specialize in writing clean and efficient code using **Object Oriented Programming (OOP)**, modular architecture, and custom frameworks designed for long-term development and easy collaboration between developers.
+I am a Roblox **Scripter** specialised in **Object Oriented Programming (OOP)**, scalable systems, and custom module frameworks focused on clean architecture, optimization, and easy debugging. I aim to create systems that are not only efficient and high-performing, but also understandable and maintainable for future developers working on the project.
 
-My main goal is not only to make systems work, but to make them:
-- Easy to debug
-- Easy to expand
-- Easy to understand
-- Optimized for performance
-- Future-proof for large projects
-
-I always approach development in the most logical and efficient way possible while maintaining readability and organization throughout the entire codebase.
+All the projects and work examples are listed in the end
 
 ---
 
-# ⚙️ Core Development Skills
+# ⚙️ What I Specialise In
 
-## 🧠 Programming & System Architecture
+### 🧠 Programming & Architecture
 - Object Oriented Programming (OOP)
-- Modular programming
-- Single-script structures
-- Custom frameworks
-- Module loaders
-- Scalable architecture
-- Backend systems
-- Frontend systems
-- Client/server communication
-- Event-driven systems
-- Code optimization
-- Clean code practices
-- Advanced debugging
-- Project structuring
-- Maintainable codebases
-- Developer-friendly scripting
+- Single script structures
+- Custom frameworks & module loaders
+- Easy communication between scripts
+- Frontend & backend logic
+- Clean, scalable, and readable code
+- Optimization for both code and builds
+- Debugging & problem solving
 
 ---
 
-# 🎮 Gameplay & Mechanics
-
-## Combat & Movement
-- Combat systems
-- Ability systems
-- Skill frameworks
+# 🎮 Gameplay Systems
 - Movement systems
-- Dashing systems
-- Sprinting systems
-- Physics-based movement
-- Wall climbing / parkour systems
-- Animation handling
-
-## World Interaction
-- Raycasting
-- Interaction systems
-- Object handling
-- Physics systems
-- Environment systems
+- Combat systems
+- Inventory systems
 - Elevator systems
-
-## NPC & AI Systems
-- NPC behavior
-- Enemy AI
-- Pathfinding systems
-- Detection systems
-- Aggro systems
+- Pet follow systems
+- Physics based systems
+- NPC behaviour
+- Pathfinding
+- Raycasting
+- Admin commands
+- Anti-cheat & sanity checks
 
 ---
 
 # 📦 Data & Networking
-
-## Data Handling
-- ProfileStore integration
-- Data saving/loading
-- Session handling
-- Secure player data systems
-- Inventory systems
-- Currency systems
-- Progression systems
-
-## Online Features
-- Global leaderboards
-- Local leaderboards
-- Match systems
-- Round systems
-- Secure remote communication
-- Anti-exploit practices
-- Sanity checks
-- Validation systems
+- Data handling using ProfileStore
+- Global & local leaderboards
+- Efficient client/server communication
+- Secure remote handling
 
 ---
 
-# 🛠️ Development Focus
+# 🛠️ Game Genres I Can Create
+I can develop a wide variety of games ranging from:
 
-I mainly focus on:
-- Performance
-- Optimization
-- Stability
-- Scalability
-- Readability
-- Team compatibility
-- Expandable systems
-
-I always try to ensure that future developers working on the project can easily understand, edit, and build upon my work without unnecessary complications.
-
----
-
-# 🎯 Game Genres I Can Work On
-
-I can develop systems and gameplay for:
-- RPG Games
 - Simulators
+- RPG Games
 - Combat Games
+- Movement Based Games
 - Survival Games
-- Round-Based Games
-- Story Games
-- Adventure Games
-- Progression Games
-- Open World Games
-- Anime Games
-- PvP Games
-- Sandbox Games
-- And many more...
+- Round Based Games
+- And more...
 
 ---
 
-# ✅ What I Provide
+# ✅ Perks I Provide
 
-## Professional Workflow
-- Fast and organized development
-- Regular updates and communication
-- Flexible revisions
-- Team collaboration
-- Respectful communication
-- Reliable problem solving
-
-## Code Quality
-- Clean structure
-- Readable systems
-- Organized modules
-- Optimized execution
-- Logical design patterns
-- Long-term maintainability
-
-## Problem Solving
-I always aim to provide:
-- Logical solutions
-- Efficient systems
-- Fast debugging
-- Stable implementations
-- Optimized performance
-
----
-
-# 👥 Team Experience
-
-I am experienced in:
-- Working within development teams
-- Communicating with lead developers
-- Managing scripting workflow
-- Coordinating systems with builders/designers
-- Maintaining organized development structure
-
-I always prioritize professionalism, teamwork, and smooth collaboration during development.
+- Fast delivery with little to no unnecessary delays
+- Regular progress updates and communication
+- Revisions & adjustments based on client requests
+- Logical and optimized solutions to problems
+- Clean and understandable scripting practices
+- Developer-friendly code structure
+- Team experience and project coordination
+- Respectful communication with team members and management
 
 ---
 
 # ⏰ Availability
 - Available for **4–6 hours/day**
-- Open to both short-term and long-term projects
+- Experienced with both solo and team development
 
----
+# 💻 Projects
+- Movement System, VFX and Animations integration
+- Round System and Voting system
+- UI Animations
+- Admin Commands
 
-# 💡 Development Philosophy
-
-> "Simple. Logical. Optimized."
-
-I believe good systems should not only function properly, but also remain scalable, understandable, and efficient as projects continue to grow.
