@@ -1,4 +1,5 @@
-#  Roblox Scripting Overview
+# 🚀 Roblox Scripting Overview
+
 I am a Roblox **Scripter, System Designer, and Framework Developer** focused on creating scalable, optimized, and maintainable game systems.
 I specialize in writing clean and efficient code using **Object Oriented Programming (OOP)**, modular architecture, and custom frameworks designed for long-term development and easy collaboration between developers.
 
@@ -13,9 +14,9 @@ I always approach development in the most logical and efficient way possible whi
 
 ---
 
-#  Core Development Skills
+# ⚙️ Core Development Skills
 
-##  Programming & System Architecture
+## 🧠 Programming & System Architecture
 - Object Oriented Programming (OOP)
 - Modular programming
 - Single-script structures
@@ -35,7 +36,7 @@ I always approach development in the most logical and efficient way possible whi
 
 ---
 
-#  Gameplay & Mechanics
+# 🎮 Gameplay & Mechanics
 
 ## Combat & Movement
 - Combat systems
@@ -65,7 +66,7 @@ I always approach development in the most logical and efficient way possible whi
 
 ---
 
-#  Data & Networking
+# 📦 Data & Networking
 
 ## Data Handling
 - ProfileStore integration
@@ -88,7 +89,7 @@ I always approach development in the most logical and efficient way possible whi
 
 ---
 
-#  Development Focus
+# 🛠️ Development Focus
 
 I mainly focus on:
 - Performance
@@ -103,7 +104,7 @@ I always try to ensure that future developers working on the project can easily 
 
 ---
 
-#  Game Genres I Can Work On
+# 🎯 Game Genres I Can Work On
 
 I can develop systems and gameplay for:
 - RPG Games
@@ -122,7 +123,7 @@ I can develop systems and gameplay for:
 
 ---
 
-#  What I Provide
+# ✅ What I Provide
 
 ## Professional Workflow
 - Fast and organized development
@@ -150,7 +151,7 @@ I always aim to provide:
 
 ---
 
-#  Team Experience
+# 👥 Team Experience
 
 I am experienced in:
 - Working within development teams
@@ -163,8 +164,14 @@ I always prioritize professionalism, teamwork, and smooth collaboration during d
 
 ---
 
-#  Availability
+# ⏰ Availability
 - Available for **4–6 hours/day**
 - Open to both short-term and long-term projects
 
+---
 
+# 💡 Development Philosophy
+
+> "Simple. Logical. Optimized."
+
+I believe good systems should not only function properly, but also remain scalable, understandable, and efficient as projects continue to grow.
