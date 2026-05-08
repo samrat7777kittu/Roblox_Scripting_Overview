@@ -167,10 +167,4 @@ I always prioritize professionalism, teamwork, and smooth collaboration during d
 - Available for **4–6 hours/day**
 - Open to both short-term and long-term projects
 
----
 
-# 📫 Contact
-
-## Discord
-```txt id="4f0m9d"
-samrat7777
