@@ -10,9 +10,7 @@ All the projects and work examples are listed in the end
 
 ### 🧠 Programming & Architecture
 - Object Oriented Programming (OOP)
-- Single script structures
 - Custom frameworks & module loaders
-- Easy communication between scripts
 - Frontend & backend logic
 - Clean, scalable, and readable code
 - Optimization for both code and builds
@@ -61,8 +59,6 @@ I can develop a wide variety of games ranging from:
 - Fast delivery with little to no unnecessary delays
 - Regular progress updates and communication
 - Revisions & adjustments based on client requests
-- Logical and optimized solutions to problems
-- Clean and understandable scripting practices
 - Developer-friendly code structure
 - Team experience and project coordination
 - Respectful communication with team members and management
@@ -72,6 +68,8 @@ I can develop a wide variety of games ranging from:
 # ⏰ Availability
 - Available for **4–6 hours/day**
 - Experienced with both solo and team development
+
+---
 
 # 💻 Projects
 - Movement System, VFX and Animations integration
